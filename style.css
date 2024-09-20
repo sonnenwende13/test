@@ -1,0 +1,32 @@
+h1 {text-align: center;
+text-indent: 50px; font-family: Arial Narrow Bold;}
+h1 {font-size: 30px;}
+h1 {font-weight: bolder;}
+h1 {color: rgb(111, 8, 255);}
+.lw {text-align:center;}
+.lw {font-size: 20px;}
+.lw {font-family:Cambria;}
+.lw {font-style: italic;}
+.lw{line}
+.lw {color: rgb(111, 8, 255);}
+hr {color: rgb(10, 4, 178);}
+hr {width: 80mm}
+hr {height: 0,5mm;}
+hr {fill:blue}
+h2 {text-align: center;
+text-indent: 50px; font-family: Arial Narrow Bold;}
+h2 {font-size: 25px;}
+h2 {font-weight: bolder;}
+h2 {color: rgb(6, 6, 6);}
+
+
+
+
+
+
+
+
+
+
+.lw {}
+.lw {font-style: italic;}
